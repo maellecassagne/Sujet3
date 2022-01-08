@@ -54,7 +54,7 @@ background-image: url("Images/Rectangle 2.png");
 
 .artistes{
   display:flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .artistes span{
@@ -192,7 +192,7 @@ margin: 0;
   
   .logoscontacts {
     display:flex;
-    flex-wrap: nowrap;
+   flex-wrap: wrap;
   }
 
   .logosspan{
